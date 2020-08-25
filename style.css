@@ -55,6 +55,9 @@ button:hover {
         padding:10px 20px;
         width: 80%;
         border-radius:10px;
-        
+    }
+
+    .buttons {
+        line-height: 200%;
     }
 }
