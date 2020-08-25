@@ -40,11 +40,11 @@ button:hover {
 }
 
 #result {
-    font-size:12em;;
+    font-size:12em;
     text-align: center;
     margin:0;
     word-break: break-all;
-    line-height: 250px;
+    line-height: 150%;
     background-color: yellow;
     font-family: Lucida Sans Typewriter;
 }
@@ -60,4 +60,6 @@ button:hover {
     .buttons {
         line-height: 200%;
     }
-}
+    #result {
+        font-size:6em;
+        }
